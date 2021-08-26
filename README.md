@@ -1,4 +1,4 @@
-# A_B_test
+# A/B test
 A/B test to help boost revenue, and analyse the results.
 
 **Project Description** | **Library Used** |
